@@ -1,0 +1,1 @@
+This is Gambit's first git project!
